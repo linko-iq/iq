@@ -1,4 +1,4 @@
-const CACHE_NAME = "linko-official-v1";
+const CACHE_NAME = "linko-official-v3";
 
 const CORE_FILES = [
   "./",
